@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SimulatorAndroid">
         <activity
+
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
